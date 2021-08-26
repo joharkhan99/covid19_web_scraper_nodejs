@@ -1,12 +1,11 @@
 {
-  "name": "linkedin_bot",
+  "name": "covid19_scrapper",
   "version": "1.0.0",
-  "description": "small bot for linkedin",
-  "main": "index.js",
+  "description": "small SCRAPPER for COVID19",
+  "main": "covid_19.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
-    
+    "start": "node covid_19.js"    
   },
   "author": "Johar Khan",
   "license": "ISC",
